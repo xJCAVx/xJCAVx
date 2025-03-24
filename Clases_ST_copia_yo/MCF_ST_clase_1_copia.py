@@ -4,7 +4,7 @@ import numpy as np
 import yfinance as yf
 import matplotlib.pyplot as plt
 import scipy.stats as stats
-from scipy.stats import kurtosis, skew, shapiro ,norm
+from scipy.stats import kurtosis, skew, shapiro, norm
 
 
 # TITULO
